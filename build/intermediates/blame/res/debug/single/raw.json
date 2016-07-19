@@ -2,5 +2,9 @@
     {
         "merged": "D:\\project\\superwechat\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
         "source": "D:\\project\\superwechat\\res\\raw\\outgoing.ogg"
+    },
+    {
+        "merged": "D:\\superwechat\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "D:\\superwechat\\res\\raw\\outgoing.ogg"
     }
 ]

@@ -2,5 +2,9 @@
     {
         "merged": "D:\\project\\superwechat\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
         "source": "D:\\project\\superwechat\\res\\drawable-nodpi\\empty_photo.png"
+    },
+    {
+        "merged": "D:\\superwechat\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
+        "source": "D:\\superwechat\\res\\drawable-nodpi\\empty_photo.png"
     }
 ]

@@ -2,5 +2,9 @@
     {
         "merged": "D:\\project\\superwechat\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
         "source": "D:\\project\\superwechat\\res\\color\\main_botton_text_color.xml"
+    },
+    {
+        "merged": "D:\\superwechat\\build\\intermediates\\res\\merged\\debug\\color\\main_botton_text_color.xml",
+        "source": "D:\\superwechat\\res\\color\\main_botton_text_color.xml"
     }
 ]
